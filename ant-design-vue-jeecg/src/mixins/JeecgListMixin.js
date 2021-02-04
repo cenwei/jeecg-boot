@@ -347,6 +347,7 @@ export const JeecgListMixin = {
       let url = getFileAccessHttpUrl(text)
       window.open(url);
     },
+
   }
 
 }
